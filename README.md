@@ -1,2 +1,2 @@
 # voidpay
-an open payment gateway
+an open payment gateway solution
