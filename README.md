@@ -1,5 +1,5 @@
 # voidpay
-an open payment gateway solution
+an open PCI compliant payment gateway solution
 
 ## License
 
